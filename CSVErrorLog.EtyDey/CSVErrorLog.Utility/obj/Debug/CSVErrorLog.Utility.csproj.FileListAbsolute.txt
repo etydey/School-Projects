@@ -1,0 +1,4 @@
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Utility\bin\Debug\CSVErrorLog.Utility.dll
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Utility\bin\Debug\CSVErrorLog.Utility.pdb
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Utility\obj\Debug\CSVErrorLog.Utility.dll
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Utility\obj\Debug\CSVErrorLog.Utility.pdb

@@ -1,0 +1,5 @@
+C:\VS2015 Working folder\CPRG202\CPRG202.Final.EtyDey\CPRG202.Final.Utility\bin\Debug\CPRG202.Final.Utility.dll
+C:\VS2015 Working folder\CPRG202\CPRG202.Final.EtyDey\CPRG202.Final.Utility\bin\Debug\CPRG202.Final.Utility.pdb
+C:\VS2015 Working folder\CPRG202\CPRG202.Final.EtyDey\CPRG202.Final.Utility\obj\Debug\CPRG202.Final.Utility.csprojResolveAssemblyReference.cache
+C:\VS2015 Working folder\CPRG202\CPRG202.Final.EtyDey\CPRG202.Final.Utility\obj\Debug\CPRG202.Final.Utility.dll
+C:\VS2015 Working folder\CPRG202\CPRG202.Final.EtyDey\CPRG202.Final.Utility\obj\Debug\CPRG202.Final.Utility.pdb
