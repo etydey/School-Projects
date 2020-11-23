@@ -1,0 +1,18 @@
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\bin\Debug\CPRG201.FinalAssignment.EtyDey.exe.config
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\bin\Debug\CPRG201.FinalAssignment.EtyDey.exe
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\bin\Debug\CPRG201.FinalAssignment.EtyDey.pdb
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.csprojResolveAssemblyReference.cache
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.MainForm.resources
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.Properties.Resources.resources
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.csproj.GenerateResource.Cache
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.exe
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.pdb
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.DataEntryForm.resources
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.HelpAbout.resources
+C:\VS2015 Working folder\CPRG201\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.DisplayDataForm.resources
+C:\VS2015 Working folder\CPRG201\Final Assignment\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\bin\Debug\CPRG201.FinalAssignment.EtyDey.exe.config
+C:\VS2015 Working folder\CPRG201\Final Assignment\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.exe
+C:\VS2015 Working folder\CPRG201\Final Assignment\CPRG201.FinalAssignment.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.pdb
+C:\Users\AMD-A12\MDI Project\MDIApplication.EtyDey\CPRG201.FinalAssignment.EtyDey\bin\Debug\CPRG201.FinalAssignment.EtyDey.exe.config
+C:\Users\AMD-A12\MDI Project\MDIApplication.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.exe
+C:\Users\AMD-A12\MDI Project\MDIApplication.EtyDey\CPRG201.FinalAssignment.EtyDey\obj\Debug\CPRG201.FinalAssignment.EtyDey.pdb
