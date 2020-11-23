@@ -1,0 +1,7 @@
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\bin\Debug\CSVErrorLog.Domain.dll
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\bin\Debug\CSVErrorLog.Domain.pdb
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\bin\Debug\CSVErrorLog.Utility.dll
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\bin\Debug\CSVErrorLog.Utility.pdb
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\obj\Debug\CSVErrorLog.Domain.csprojResolveAssemblyReference.cache
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\obj\Debug\CSVErrorLog.Domain.dll
+C:\Users\AMD-A12\ErrorLogProject\CSVErrorLog.EtyDey\CSVErrorLog.Domain\obj\Debug\CSVErrorLog.Domain.pdb
